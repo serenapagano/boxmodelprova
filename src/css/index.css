@@ -1,0 +1,14 @@
+/* struttura generica di una regola css:
+
+selettore {
+    proprietàCss1:valoreproprietàCss1;
+    proprietàCss2:valoreproprietàCss2;
+}
+    
+body{
+    background-color: red;
+}
+
+/* body {
+    background-color: aqua;
+} */

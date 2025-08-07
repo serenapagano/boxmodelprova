@@ -1,0 +1,12 @@
+div{
+    background-color: red;
+width: 500px;
+padding: 50px;
+border: none ridge orange;
+/* margin: 30px; */
+box-sizing: border-box;
+}
+
+div + div{
+    background-color: yellow;
+}
