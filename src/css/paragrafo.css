@@ -23,3 +23,10 @@ div{
     background-color: yellow;
     /* padding: 30px; */
 }
+
+span{
+    display: inline-block;
+   background-color: aquamarine;
+   width: 300px;
+  
+}
