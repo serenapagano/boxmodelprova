@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+
+
+/* p {
+    background-color: red;
+    margin: 0;
+    border: 20px solid orange;
+    outline: 20px solid green;
+    margin: 20px;
+} */
+
+/* p{
+    margin: 40px;
+} */
+
+p{
+    text-indent: 20px ;
+}
+
+div{
+    background-color: yellow;
+    /* padding: 30px; */
+}
