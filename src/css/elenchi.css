@@ -1,0 +1,13 @@
+ul li{
+   /*  list-style-type: "-"; */
+    padding: 10px;
+    list-style-image: url("../../assets/img/icons8-ninja-turtle-32.png");
+}
+
+ul{
+    padding-left: 35px;
+}
+
+ol li{
+    list-style-type:lower-roman /* upper-latin */ /* lower-latin */ /* decimal-leading-zero; */
+}
