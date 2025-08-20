@@ -1,3 +1,10 @@
 span{
     font-weight: bold;
 }
+
+kbd{
+    background-color: grey;
+    color: black;
+    border: 1px solid black;
+    padding: 3px;
+}
