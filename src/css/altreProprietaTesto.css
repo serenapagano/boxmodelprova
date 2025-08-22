@@ -1,0 +1,46 @@
+p.grassetto{
+    /* font-weight: bold; */
+    font-weight: 700;
+}
+
+u{
+    /* text-decoration: none; */
+text-decoration-style: wavy;
+text-decoration-color: red;
+}
+
+.underlined{
+    text-decoration:underline;
+    text-decoration-color: aqua;
+}
+
+div.ombra{
+    text-shadow: 3px 3px 2px #777;
+
+}
+
+.trasforma{
+    text-transform: uppercase;
+}
+
+.maiuscoletto{
+    font-variant: small-caps;
+}
+
+div.allineamento{
+    width: 50%;
+    max-width: 600px;
+    border: 1px solid black;
+    text-align: justify;
+    /* text-align: right; */
+
+    margin: 0 auto;
+}
+
+div.sub_container{
+    width: 50%;
+    background-color: orangered;
+    min-height: 200px;
+    /* margin: 0 auto; */
+    /* margin-left: auto; */
+}
