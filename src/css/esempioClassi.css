@@ -1,0 +1,17 @@
+/* small{
+    background-color: rgb(218, 37, 37);
+    color: white;
+    padding: 10px;
+} */
+
+.errore{
+    background-color: rgb(218, 37, 37);
+    color: white;
+    padding: 10px;
+}
+
+.errore-form{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    font-style: italic;
+}

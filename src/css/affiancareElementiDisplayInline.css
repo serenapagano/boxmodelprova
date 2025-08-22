@@ -19,7 +19,7 @@ div{
 }
 
 
-#card-container{
+.card-container{
     border:3px ridge rgb(207, 31, 31); 
     width: calc(25% - 20px);
     display: inline-block;
@@ -31,16 +31,16 @@ h2{
     margin: 0;
     padding: 5px;
 }
-#card-body{
+.card-body{
     background-color: yellow;
     color:rgb(75, 75, 12) ;
     font-size: 20px;
     padding: 10px;
-    border-top: 1px solid #fdfbfb;
+    border-top: 1px solid wihite;
     border-bottom: 3px solid white;
 }
 
-#card-footer{
+.card-footer{
     background-color: blue;
     padding: 5px;
     color: white;
