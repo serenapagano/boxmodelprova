@@ -33,7 +33,7 @@ div.allineamento{
     border: 1px solid black;
     text-align: justify;
     /* text-align: right; */
-
+text-align: center;
     margin: 0 auto;
 }
 
@@ -43,4 +43,29 @@ div.sub_container{
     min-height: 200px;
     /* margin: 0 auto; */
     /* margin-left: auto; */
+    display: inline-block;
+    line-height: 200px;
+}
+
+p{
+    text-align: left;
+    line-height: 1.4;
+}
+
+div.gestisci_spazi{
+    /* white-space: pre-line; */
+    white-space: pre-wrap;
+ /*    overflow-x: hidden;
+text-overflow: ellipsis; */
+    padding: 5px;
+   width: 150px;
+   border: 1px solid black;
+}
+
+
+div.parole_lunghe{
+    width: 150px;
+    border: 1px solid black;
+    overflow-wrap: break-word;
+    hyphens: auto;
 }
